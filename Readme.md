@@ -135,8 +135,8 @@ We successfully deployed a two-tier app on AWS EKS with Fargate, routing traffic
 Happyyyyyyyy gamifyingggggggggg!
 # References
 
-AWS EKS Documentation
+[AWS EKS Documentation](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
 
-AWS Load Balancer Controller
+[AWS Load Balancer Controller](https://kubernetes-sigs.github.io/aws-load-balancer-controller/)
 
-Kubernetes Ingress
+[Kubernetes Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)
